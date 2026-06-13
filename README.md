@@ -13,6 +13,10 @@ The notebook addresses the following questions using the supplied dataset:
 5. What additional insights can be obtained through modelling?
 6. What are the limitations of the dataset and how could future studies be improved?
 
+Note on AI assistance
+
+AI tools were used to assist with code review, debugging, and editing, including linguistic suggestions for the written commentary. The analytical approach, interpretation, and conclusions are my own
+
 ## Repository contents
 
 - `KTP_Task.ipynb` — Jupyter notebook containing all code, plots, and commentary.
